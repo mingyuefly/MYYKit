@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MYYKit'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of MYYKit.'
+  s.version          = '1.0.0'
+  s.summary          = 'MYYKit description'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/liumingzhi912@163.com/MYYKit'
+  s.homepage         = 'https://github.com/mingyuefly/sixNumsPassword'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'liumingzhi912@163.com' => 'guomingyue.gmy@alibaba-inc.com' }
-  s.source           = { :git => 'https://github.com/liumingzhi912@163.com/MYYKit.git', :tag => s.version.to_s }
+  s.author           = { 'mingyuefly' => 'mingyuefly@qq.com' }
+  s.source           = { :git => 'https://github.com/mingyuefly/sixNumsPassword.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'

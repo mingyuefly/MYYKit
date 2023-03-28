@@ -1,0 +1,22 @@
+{
+  "name": "MYYKit",
+  "version": "0.1.0",
+  "summary": "A short description of MYYKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/liumingzhi912@163.com/MYYKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liumingzhi912@163.com": "guomingyue.gmy@alibaba-inc.com"
+  },
+  "source": {
+    "git": "https://github.com/liumingzhi912@163.com/MYYKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "MYYKit/Classes/**/*"
+}
