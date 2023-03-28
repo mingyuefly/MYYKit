@@ -1,19 +1,19 @@
 {
   "name": "MYYKit",
-  "version": "0.1.0",
-  "summary": "A short description of MYYKit.",
+  "version": "1.0.1",
+  "summary": "MYYKit description",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/liumingzhi912@163.com/MYYKit",
+  "homepage": "https://github.com/mingyuefly/sixNumsPassword",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "liumingzhi912@163.com": "guomingyue.gmy@alibaba-inc.com"
+    "mingyuefly": "mingyuefly@qq.com"
   },
   "source": {
-    "git": "https://github.com/liumingzhi912@163.com/MYYKit.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/mingyuefly/MYYKit.git",
+    "tag": "1.0.1"
   },
   "platforms": {
     "ios": "10.0"

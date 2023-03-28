@@ -1,5 +1,5 @@
 PODS:
-  - MYYKit (0.1.0)
+  - MYYKit (1.0.1)
 
 DEPENDENCIES:
   - MYYKit (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  MYYKit: 0b9a5277e5e1011b1295bf8e85cd3525ef82c475
+  MYYKit: d3c2c02995cf8756a0619fc58ad5aceb232e9955
 
 PODFILE CHECKSUM: 259b57da5c76b4b1cccd7922818957e0dc9d8dee
 
